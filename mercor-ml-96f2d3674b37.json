@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mercor-ml",
+  "private_key_id": "96f2d3674b375598d7f6a3e56819c9cd369b37de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClFLLFHRypJtll\nEkg1cm1PoW48F9nonA83f9icC7i0eHAvkm5WzZlff7Bf9WRcwVrRVFRb54puRCY8\n6Ci+hB2ufIl5uDM5A6etsXZtW0Hpli7cEmjzhtHiaYNBQq/vWizPz23eHfBgQ2Tf\nvvd8AhFVXnyH0QhcBSFc/Hya1RO8mLsr/g4EZV68BjxbiG8fn5Ut+QfRdzmFzYAf\nJ/E5NuXpHt9ccEzKx6FlMBdFy9LsXfIuXxp49xsVP6tRc+Q16dghhtRcLfoFZqLz\nZecOnrovahFADdgalC0OEjGgwSGEis/d7XJEetCahRBIATZedxqCVpEuAx//nmiT\ngoXx7j7HAgMBAAECggEAEucS2AVPBy4eozcmXjsIZJ+MhYRe/FwFALWP8muug7kY\nHNUR82M+1l5DA586wHBCMPQMu4AA1u17dL/0t76zE2Fz8HnKIROCZh41pwIAbc83\noGrZ6lYcFGaWk/4fMojLLCSJZRoH2038RVk9nM0zz5MD2XLIbUOydU5StPwEct+E\nTsPCyCjsfEN80OBtNv14rHYZF8Z0xvxIke/c+wqJF7HDwmJKyOdADV3qWR/ujYVe\nskyqNiBG8fHaaDGOo40P4+7f9nbY0BTViG/qnaBqvTg/vljPKCTtUe6LSag8C62G\nIuJRa1o/Q9d9GfsDyMeYBIdiADqd8OVz4T0LO9Q08QKBgQDhmjfu0ivyqV7I+oqK\nxKU1zBlG7LlMdwG6mp5XiXA3bU+ZhJuuFSS57YmrqN0DxmnIcT62NmKzjg5XwpTF\nnSc5qgdr/cYcSutgmnThbEZ08BROwQfW/UnHn4+WRu6yVT0Tmy4tcbJq7OMGFFiy\nPRMlj8bHr90aDl7LtzL1rQPkXwKBgQC7UuOIKqCDpn36KSae3PNEA51Qu3UBn+bi\nYbcn/TsEDjUb+B9+XPZkocgQ7R/aUnOx8WkPGMvtdkSQ29Jd4pqLDmm58hQnORbU\nmDrL7fNrC9uiXRKqg0yBvUtnTEio1vyemiF4u5jPc0AOW+iLR0/ZG0qBya2BXuYj\n7U1OrEx+mQKBgQCHtVxWFimHpGi3Hzc9uILlNKwz5OymWaQ5mw8K+0r8nI3YfFOl\nyWQ5T/GTyFWDEtTJVY3y0A5ZkmeAVTVnFlzlLCmgxZxpoouqpd8PRzGu4EhnA2jy\n45SBN7OJI4wszGecJqoFfjJkbbE3FAAy39hnrPBXaKvpI6HUi5RlArmnowKBgCIa\n6Uo1WJwfh/gv3dQ2riPH9LBqMNdm4YZ9+/bP6BrI62p4NmOvUTzpJ5/NTGtXb7EK\nHvKctSQ60Cj/nMFzLGf868rrBDhP8JQsUygl3peyxP4+q9NXrGpCqKPaA7CZ08yc\ni1OL9Dpw5Uy39xLEnQkOKvaOXYScXpJT9itIu3ShAoGAOysS2Xl4D60a5OepDdRM\nFz3ANMMx2ZU08KXycEGrJEpalo2FxLNV21y9LZnVaBxjRRSGKF4aroYr4t7D18QU\nZiMT60+/FhonRe7oEo4tkgk+UnXJyP5Wf+Te2vV08pC0FLYVXXIe9W+Hj2CLmaBH\nVX9ZWCzLcaJInaB88ih7vgA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mercor@mercor-ml.iam.gserviceaccount.com",
+  "client_id": "111610202883056075183",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mercor%40mercor-ml.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
