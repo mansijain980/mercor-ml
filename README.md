@@ -82,6 +82,22 @@ Make sure to replace [PROJECT_ID] and the endpoint URL with your actual project 
 
 ## That's it! You have containerized the application using Docker and deployed it on Google Cloud Functions or Google Cloud Run, enabling it to accept JSON payloads and return JSON responses with the ranked list of similar item URLs.
 
+![image](https://github.com/mansijain980/mercor-ml/assets/63226239/bb80f448-c482-4f1b-9ae7-ce6ece4c2b3c)
+
+![image](https://github.com/mansijain980/mercor-ml/assets/63226239/5c2d1a09-750c-4bfb-9778-0940e50c7b8f)
+
+![image](https://github.com/mansijain980/mercor-ml/assets/63226239/482176f3-6996-4bdf-97f5-a82920b57814)
+
+![image](https://github.com/mansijain980/mercor-ml/assets/63226239/6ce3c4fc-d196-49bb-b788-206be38aada4)
+
+![image](https://github.com/mansijain980/mercor-ml/assets/63226239/3592bd3d-6d94-48de-aa4c-ddcb97d5e560)
+
+
+
+
+
+
+
 
 
 
