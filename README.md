@@ -1,4 +1,4 @@
-## Mercor-ML
+# Mercor-ML
 Mercor ML Engineer Vetting Project
 
 The goal of this project is to create a machine learning model capable of receiving text describing a clothing item and returning a ranked list of links to similar items from different websites. Your solution must be a function deployed on Google Cloud that accepts a text string and returns JSON responses with ranked suggestions.
@@ -16,7 +16,7 @@ pip install transformers
 
 ~~~
 
-# To containerize the application using Docker and deploy it on Google Cloud Functions or Google Cloud Run, you can follow these steps:
+## To containerize the application using Docker and deploy it on Google Cloud Functions or Google Cloud Run, you can follow these steps:
 
 ### Build the Docker image:
 Open a terminal or command prompt and navigate to the project directory. Run the following command to build the Docker image:
@@ -26,7 +26,7 @@ docker build -t myapp .
 ~~~
 Note: Replace myapp with a suitable name for your Docker image.
 
-### Test the Docker image:
+## Test the Docker image:
 You can test the Docker image locally by running the following command:
 
 ~~~
@@ -59,7 +59,7 @@ c. Push the Docker image to GCR:
 docker push gcr.io/[PROJECT_ID]/myapp
 ~~~
 
-# Deploy on Google Cloud Run:
+## Deploy on Google Cloud Run:
 To deploy the container on Google Cloud Run, follow these steps:
 
 i. Open the Cloud Run page in the Google Cloud Console.
@@ -80,7 +80,7 @@ Test the deployed function:
 After the deployment is successful, you can test the function by sending a JSON payload with the input text to the provided endpoint URL. The function will return a JSON response with the ranked list of similar item URLs.
 Make sure to replace [PROJECT_ID] and the endpoint URL with your actual project ID and function/service endpoint URL.
 
-# That's it! You have containerized the application using Docker and deployed it on Google Cloud Functions or Google Cloud Run, enabling it to accept JSON payloads and return JSON responses with the ranked list of similar item URLs.
+## That's it! You have containerized the application using Docker and deployed it on Google Cloud Functions or Google Cloud Run, enabling it to accept JSON payloads and return JSON responses with the ranked list of similar item URLs.
 
 
 
