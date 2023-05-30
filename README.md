@@ -34,7 +34,7 @@ docker run -p 8080:8080 myapp
 ~~~
 This will start the container and map the container's port 8080 to your local machine's port 8080. You can send a test request to http://localhost:8080/ to verify if the application is working correctly.
 
-# Upload the Docker image to a container registry:
+## Upload the Docker image to a container registry:
 You need to upload the Docker image to a container registry in order to deploy it on Google Cloud Functions or Google Cloud Run. Here's an example of how to upload the Docker image to Google Container Registry (GCR):
 
 a) Tag the Docker image with the GCR location:
