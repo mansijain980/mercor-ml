@@ -3,7 +3,7 @@ Mercor ML Engineer Vetting Project
 
 The goal of this project is to create a machine learning model capable of receiving text describing a clothing item and returning a ranked list of links to similar items from different websites. Your solution must be a function deployed on Google Cloud that accepts a text string and returns JSON responses with ranked suggestions.
 
-# Steps to be followed to deploy docker image on Gogle Cloud Run
+#### Steps to be followed to deploy docker image on Gogle Cloud Run
 
 ### Libraries(if you are using editor like Vscode )
 
